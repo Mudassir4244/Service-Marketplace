@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220548640043",
+    "project_id": "servable-21605",
+    "storage_bucket": "servable-21605.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220548640043:android:b9999e998a7d41f796296e",
+        "android_client_info": {
+          "package_name": "com.example.servable"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmf8Xp6UNtD3ro_8fYpdrnEz0_xbIKRa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
